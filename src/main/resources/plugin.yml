@@ -1,0 +1,7 @@
+name: "BeeRandomCrash"
+main: "com.dfsek.bees.BeeRandomAccessPlugin"
+version: "1.0.0"
+load: "STARTUP"
+author: dfsek
+api-version: "1.19"
+description: "Demonstrates crash involving unsynchronized random access during bee entity instantiation."
